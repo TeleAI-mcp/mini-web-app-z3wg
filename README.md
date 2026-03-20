@@ -1,2 +1,3 @@
-# mini-web-app-z3wg
-A web application for modern development workflows
+# Mini Web App Z3Wg
+
+A web application for modern development workflows.
